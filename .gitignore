@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+#virtuel enviroment
+Deliverbol2_environment
+#data generator
+generate_data_for_d2.py
